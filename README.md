@@ -2,7 +2,7 @@
 
 Place of birth: <a href="https://en.wikipedia.org/wiki/Thun">Thun</a>:switzerland:
 
-After a few years of coding as a hobby I'm currently learning Web Development with <a href="https://www.neuefische.de/">neuefische</a>
+After a few years of coding as a hobby I'm currently learning Web Development with <a href="https://www.neuefische.de/">neuefische</a>.
 
 <h2>Connect with me on:</h2>
 <ul>
