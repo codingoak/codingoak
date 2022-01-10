@@ -5,3 +5,9 @@ Student by <b>neuefische</b>
 Geburtsort: Thun
 
 Wie gefällt es dir? So weit so gut.
+
+<ul>
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+</ul>
