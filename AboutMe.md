@@ -1,4 +1,4 @@
-<b>Daniel</b> Eicher
+<h1>Daniel Eicher</h1>
 
 Student by neuefische
 
