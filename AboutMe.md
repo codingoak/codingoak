@@ -2,14 +2,12 @@
 
 Student by <b>neuefische</b>
 
-Geburtsort: Thun
+Place of birth: <a href="https://en.wikipedia.org/wiki/Thun">Thun</a> U+1F1E8
 
 Wie gefällt es dir? So weit so gut.
 
+<h2>Visit me on:</h2>
 <ul>
-  <li>1</li>
-  <li>2</li>
-  <li>3</li>
+  <li><a href="https://www.facebook.com/daniel.eicher.355/" target="_blank">Facebook</a></li>
+  <li><a href="https://www.facebook.com/daniel.eicher.355/" target="_blank">LinkedIn</a></li>
 </ul>
-
-<a href="https://www.facebook.com/daniel.eicher.355/" target="_blank">Mein Facebook-Profil</a>
