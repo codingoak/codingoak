@@ -1,6 +1,6 @@
 <h1>Daniel Eicher</h1>
 
-Student by neuefische
+Student by <b>neuefische</b>
 
 Geburtsort: Thun
 
