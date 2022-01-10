@@ -2,7 +2,7 @@
 
 Student by <b>neuefische</b>
 
-Place of birth: <a href="https://en.wikipedia.org/wiki/Thun">Thun</a> U+1F1E8
+Place of birth: <a href="https://en.wikipedia.org/wiki/Thun">Thun</a> :switzerland:
 
 Wie gefällt es dir? So weit so gut.
 
