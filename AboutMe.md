@@ -1,4 +1,4 @@
-Daniel Eicher
+<b>Daniel Eicher</b>
 
 Student by neuefische
 
