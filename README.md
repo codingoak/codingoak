@@ -2,11 +2,11 @@
 
 **Place of birth:** [Thun](https://en.wikipedia.org/wiki/Thun):switzerland:
 
-After first steps of coding with Java, Kotlin and Python, I'm currently learning with [neuefische](https://www.neuefische.de/) to start my career in web development.
+After first steps of coding with Python, Java and Kotlin, I'm currently learning with [neuefische](https://www.neuefische.de/) to start my career in web development.
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-000?logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML-000?logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 
 ### Technologies and frameworks
