@@ -10,15 +10,23 @@ After first steps of coding with Python, Java and Kotlin, I'm currently learning
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 
 ### Technologies and frameworks
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+![Storybook](https://img.shields.io/badge/-Storybook-000?logo=Storybook)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![AdobeXd](https://img.shields.io/badge/-AdobeXd-000?&logo=AdobeXd)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
 
 ### Connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/daniel-eicher-963844203/)
-- [Xing](https://www.xing.com/profile/Daniel_Eicher9/cv)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/daniel-eicher/)
+[![Xing](https://img.shields.io/badge/-Xing-000?&logo=xing)](https://www.xing.com/profile/Daniel_Eicher9/cv)
+[![facebook](https://img.shields.io/badge/-facebook-000?&logo=facebook)](https://www.facebook.com/daniel.eicher.355)
+[![twitter](https://img.shields.io/badge/-twitter-000?&logo=twitter)](https://twitter.com/codingoak)
 
 ### Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codingoak&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&sideLabels=DD2727&background=151515)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codingoak&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingoak&langs_count=5&theme=tokyonight)]()
