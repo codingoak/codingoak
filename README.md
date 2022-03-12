@@ -27,6 +27,8 @@ After first steps of coding with Python, Java and Kotlin, I'm currently learning
 [![twitter](https://img.shields.io/badge/-twitter-000?&logo=twitter)](https://twitter.com/codingoak)
 
 ### Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codingoak&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codingoak&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingoak&langs_count=5&theme=tokyonight)]()
