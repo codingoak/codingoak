@@ -1,7 +1,5 @@
 # Daniel Eicher
 
-![](https://komarev.com/ghpvc/?username=codingoak&color=blue)
-
 **Place of birth:** [Thun](https://en.wikipedia.org/wiki/Thun):switzerland:
 
 After first steps of coding with Python, Java and Kotlin, I'm currently learning with [neuefische](https://www.neuefische.de/) to start my career in web development.
@@ -34,3 +32,6 @@ After first steps of coding with Python, Java and Kotlin, I'm currently learning
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codingoak&count_private=true&theme=tokyonight&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingoak&langs_count=5&theme=tokyonight)]()
+
+ ![](https://komarev.com/ghpvc/?username=codingoak&color=blue)
+
