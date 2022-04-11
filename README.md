@@ -1,8 +1,7 @@
 # Daniel Eicher
-
 **Place of birth:** [Thun](https://en.wikipedia.org/wiki/Thun):switzerland:
 
-After first steps of coding with Python, Java and Kotlin, I'm currently learning with [neuefische](https://www.neuefische.de/) to start my career in web development.
+:technologist: I am currently learning TypeScript and React
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
