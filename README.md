@@ -1,7 +1,7 @@
 # Daniel Eicher
 **Place of birth:** [Thun](https://en.wikipedia.org/wiki/Thun):switzerland:
 
-:technologist: I am currently learning TypeScript
+:technologist: I am currently learning Vue.js and TypeScript
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
