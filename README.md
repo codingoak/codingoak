@@ -1,14 +1,14 @@
-# Daniel Eicher
+# `Daniel Eicher`
 **Place of birth:** [Thun](https://en.wikipedia.org/wiki/Thun):switzerland:
 
 :technologist: I am currently learning Vue.js and TypeScript
 
-### Languages
+### `Languages`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML-000?logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 
-### Technologies and frameworks
+### `Technologies and frameworks`
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -19,7 +19,7 @@
 ![AdobeXd](https://img.shields.io/badge/-AdobeXd-000?&logo=AdobeXd)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
 
-### Connect with me on:
+### ``Connect with me on:``
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/daniel-eicher/)
 [![Xing](https://img.shields.io/badge/-Xing-000?&logo=xing)](https://www.xing.com/profile/Daniel_Eicher9/cv)
 [![facebook](https://img.shields.io/badge/-facebook-000?&logo=facebook)](https://www.facebook.com/daniel.eicher.355)
