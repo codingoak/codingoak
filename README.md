@@ -22,7 +22,6 @@
 ### ``Connect with me on:``
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/daniel-eicher/)
 [![Xing](https://img.shields.io/badge/-Xing-000?&logo=xing)](https://www.xing.com/profile/Daniel_Eicher9/cv)
-[![facebook](https://img.shields.io/badge/-facebook-000?&logo=facebook)](https://www.facebook.com/daniel.eicher.355)
 [![twitter](https://img.shields.io/badge/-twitter-000?&logo=twitter)](https://twitter.com/codingoak)
 
 ### Stats:
