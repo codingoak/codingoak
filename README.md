@@ -1,19 +1,23 @@
 # `Daniel Eicher`
-**Place of birth:** [Thun](https://en.wikipedia.org/wiki/Thun):switzerland:
+**Place of birth:** [Thun ](https://en.wikipedia.org/wiki/Thun):switzerland:
 
-:technologist: I am currently learning Vue.js and TypeScript
+:technologist: Currently I am deepening my knowledge in Vue.js and TypeScript and from time to time I learn Rust 🦀
 
 ### `Languages`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![HTML5](https://img.shields.io/badge/-HTML-000?logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
+![SASS](https://img.shields.io/badge/-SASS-000?logo=SASS)
+
 
 ### `Technologies and frameworks`
+![Vue](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![Storybook](https://img.shields.io/badge/-Storybook-000?logo=Storybook)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![AdobeXd](https://img.shields.io/badge/-AdobeXd-000?&logo=AdobeXd)
