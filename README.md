@@ -1,7 +1,7 @@
 # `Daniel Eicher`
-**Place of birth:** [Thun ](https://en.wikipedia.org/wiki/Thun):switzerland:
+Hi, I'm a passionate full-stack engineer, but I mostly do front-end work. I'm from [Thun ](https://en.wikipedia.org/wiki/Thun):switzerland:, living in Valencia with my little family and enjoying the sun and the sea :)
 
-:technologist: Currently I am deepening my knowledge in Vue.js and TypeScript and from time to time I learn Rust 🦀
+> :technologist: Currently I am deepening my knowledge in Vue.js and TypeScript and from time to time I learn Rust 🦀
 
 ### `Languages`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
