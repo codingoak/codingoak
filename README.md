@@ -1,11 +1,12 @@
-# `Daniel Eicher`
-Hi, I'm a passionate full-stack engineer, but I mostly do front-end work. I'm from [Thun ](https://en.wikipedia.org/wiki/Thun):switzerland:, living in Valencia with my little family and enjoying the sun and the sea :)
+# `Daniel Eicher` 
+Hello, I'm a passionate web engineer and mainly work on the front-end. I'm from [Thun ](https://en.wikipedia.org/wiki/Thun):switzerland:, living in Valencia with my little family and enjoying the sun and the sea :)
 
-> :technologist: Currently I am deepening my knowledge in Vue.js and TypeScript and from time to time I learn Rust 🦀
+> :technologist: Currently deepening my knowledge of Vue.js, TypeScript and PHP. 
 
 ### `Languages`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![HTML5](https://img.shields.io/badge/-HTML-000?logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-000?logo=SASS)
@@ -35,5 +36,7 @@ Hi, I'm a passionate full-stack engineer, but I mostly do front-end work. I'm fr
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingoak&langs_count=5&theme=tokyonight)]()
 
- ![](https://komarev.com/ghpvc/?username=codingoak&color=blue)
+![](https://komarev.com/ghpvc/?username=codingoak&color=blue)
+
+
 
