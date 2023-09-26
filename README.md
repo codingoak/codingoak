@@ -1,5 +1,5 @@
 # `Daniel Eicher` 
-Hello, I'm a passionate web developer and mainly work on the front-end with Vue.js and TypeScript :technologist:.
+Hello, I'm a passionate web developer and mainly work on the front-end with Vue.js and TypeScript.
 I'm from [Thun ](https://en.wikipedia.org/wiki/Thun):switzerland:, living in Valencia with my little family and enjoying the sun and the sea :)
 
 ### `Languages`
