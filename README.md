@@ -25,7 +25,6 @@ I'm from [Thun ](https://en.wikipedia.org/wiki/Thun):switzerland:, living in Val
 ### ``Connect with me on:``
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/daniel-eicher/)
 [![Xing](https://img.shields.io/badge/-Xing-000?&logo=xing)](https://www.xing.com/profile/Daniel_Eicher9/cv)
-[![twitter](https://img.shields.io/badge/-twitter-000?&logo=twitter)](https://twitter.com/codingoak)
 
 ### Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codingoak&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
