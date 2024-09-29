@@ -1,6 +1,6 @@
 # `Daniel Eicher` 
 Hello, I'm a passionate web developer and mainly work on the front-end with Vue.js and TypeScript.
-I'm from [Thun ](https://en.wikipedia.org/wiki/Thun):switzerland:, living in Valencia with my little family and enjoying the sun and the sea :)
+I'm from :switzerland: living in 🇪🇸
 
 ### `Languages`
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -21,6 +21,7 @@ I'm from [Thun ](https://en.wikipedia.org/wiki/Thun):switzerland:, living in Val
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![AdobeXd](https://img.shields.io/badge/-AdobeXd-000?&logo=AdobeXd)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 
 ### ``Connect with me on:``
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/daniel-eicher/)
