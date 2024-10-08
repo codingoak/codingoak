@@ -1,40 +1,48 @@
-# `Daniel Eicher` 
-Hello, I'm a passionate web developer and mainly work on the front-end with Vue.js and TypeScript.
-I'm from :switzerland: living in 🇪🇸
+# Daniel Eicher
 
-### `Languages`
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![HTML5](https://img.shields.io/badge/-HTML-000?logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-000?logo=CSS3)
-![SASS](https://img.shields.io/badge/-SASS-000?logo=SASS)
+👋 Hi, I'm **Daniel Eicher**, a frontend software engineer at [Dealfront](https://www.dealfront.com/). I thrive on solving complex problems and building innovative, scalable web solutions with a focus on performance optimization.
 
+🌱 I’m currently deepening my expertise in software performance and scalability while mastering the latest frontend technologies.
 
-### `Technologies and frameworks`
-![Vue](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Expressjs-000?logo=Express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Storybook](https://img.shields.io/badge/-Storybook-000?logo=Storybook)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![AdobeXd](https://img.shields.io/badge/-AdobeXd-000?&logo=AdobeXd)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?logo=Bootstrap)
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+👨‍💻 My core strengths include **TypeScript**, **Vue.js**, and modern frameworks like **Tailwind CSS**, enabling me to create dynamic, responsive user interfaces and cutting-edge designs.
 
-### ``Connect with me on:``
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://www.linkedin.com/in/daniel-eicher/)
-[![Xing](https://img.shields.io/badge/-Xing-000?&logo=xing)](https://www.xing.com/profile/Daniel_Eicher9/cv)
+---
 
-### Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codingoak&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## Tech Stack 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codingoak&count_private=true&theme=tokyonight&showicons=true)]()
+### Main Technologies
+![JavaScript](https://img.shields.io/badge/-JavaScript-2a2a3b?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2a2a3b?&logo=TypeScript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-2a2a3b?&logo=Vue.js)
+![HTML5](https://img.shields.io/badge/-HTML-2a2a3b?logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-2a2a3b?logo=CSS3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-2a2a3b?&logo=tailwindcss)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingoak&langs_count=5&theme=tokyonight)]()
+### Additional Tools
+![React](https://img.shields.io/badge/-React-2a2a3b?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-2a2a3b?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-2a2a3b?&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-2a2a3b?&logo=MongoDB)
+![Jest](https://img.shields.io/badge/-Jest-2a2a3b?&logo=Jest)
+![Storybook](https://img.shields.io/badge/-Storybook-2a2a3b?&logo=Storybook)
+![Figma](https://img.shields.io/badge/-Figma-2a2a3b?&logo=Figma)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-2a2a3b?&logo=AdobeXd)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2a2a3b?&logo=Bootstrap)
+![SASS](https://img.shields.io/badge/-SASS-2a2a3b?&logo=SASS)
 
+---
+
+## GitHub Stats
 ![](https://komarev.com/ghpvc/?username=codingoak&color=blue)
+![](https://img.shields.io/github/followers/codingoak)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codingoak&layout=compact&theme=tokyonight)
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingoak&theme=tokyonight&hide_rank=true)
 
+---
+
+## Connect with Me
+[![Twitter](https://img.shields.io/badge/-Twitter-x?&logo=x&logoColor=white&color=2a2a3b)](https://x.com/codingoak)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2a2a3b?&logo=linkedin)](https://www.linkedin.com/in/daniel-eicher/)
+[![Xing](https://img.shields.io/badge/-Xing-2a2a3b?&logo=xing)](https://www.xing.com/profile/Daniel_Eicher9/cv)
